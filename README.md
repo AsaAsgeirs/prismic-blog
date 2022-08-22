@@ -2,12 +2,17 @@
 
 This project was build by using [Next.js][nextjs] and [Prismic][prismic]. with the Starter Blog from Prismic Communitywith the Starter Blog from Prismic Community. This uses the Prismic slice machine to build components which is a very nice feature of Prismic.
 
-- **Live Link**: [[Live Link](https://prismic-blog-asaasgeirs.vercel.app/)][live-demo]
+- **Live Link**: [[Live Link](https://prismic-blog-asaasgeirs.vercel.app/)]
+
+<img src="https://user-images.githubusercontent.com/8601064/163122284-5b80a81e-a4fd-482e-9bd5-99b22f61175f.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
+
+---------------------------------------------------------------
+
+
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/8601064/163122284-5b80a81e-a4fd-482e-9bd5-99b22f61175f.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
 
 &nbsp;
 
