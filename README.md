@@ -4,6 +4,7 @@ This project was build by using [Next.js][nextjs] and [Prismic][prismic]. with t
 
 [**see the Prismic docs**][prismic-docs].
 
+[**Live Link**][https://prismic-blog-asaasgeirs.vercel.app/]
 [[**Live Link**](https://prismic-blog-asaasgeirs.vercel.app/)]
 
 <img src="https://user-images.githubusercontent.com/8601064/163122284-5b80a81e-a4fd-482e-9bd5-99b22f61175f.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
