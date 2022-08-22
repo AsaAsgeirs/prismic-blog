@@ -1,6 +1,6 @@
 # Prismic + Next.js Blog
 
-This project was build by using [Next.js][nextjs] and [Prismic][prismic]. with the Starter Blog from Prismic Communitywith the Starter Blog from Prismic Community. This uses the Prismic slice machine to build components which is a very nice feature of Prismic.
+This project was build by using [Next.js][nextjs] and [Prismic][prismic]. With the Starter Blog from Prismic Communitywith the Starter Blog from Prismic Community. This uses the Prismic slice machine to build components which is a very nice feature of Prismic.
 
 [[**Live Link**](https://prismic-blog-asaasgeirs.vercel.app/)]
 
