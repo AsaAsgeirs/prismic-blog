@@ -9,16 +9,6 @@ This project was build by using [Next.js][nextjs] and [Prismic][prismic]. With t
 
 ---------------------------------------------------------------
 
-
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
-
-&nbsp;
-
-
-&nbsp;
-
-## 🚀 Quick Start
-
 To start a new project using this starter, run the following commands in your terminal:
 
 ```sh
@@ -45,27 +35,3 @@ To learn how to work with your new project, [**see this starter's docs**][starte
 
 To learn more about working with Prismic, [**see the Prismic docs**][prismic-docs].
 
-## License
-
-```
-Copyright 2013-2022 Prismic <contact@prismic.io> (https://prismic.io)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-[prismic]: https://prismic.io/
-[prismic-docs]: https://prismic.io/docs/technologies/nextjs
-[prismic-sign-up]: https://prismic.io/dashboard/signup
-[starter-docs]: ./docs/README.md
-[nextjs]: https://nextjs.org/
-[live-demo]: https://nextjs-starter-prismic-blog.vercel.app/
