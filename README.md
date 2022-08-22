@@ -1,8 +1,8 @@
 # Prismic + Next.js Blog Starter
 
-This sample blog is an excellent starting point to explore [Next.js][nextjs] and [Prismic][prismic]. Get it up and running in minutes. Modify and adapt it to your liking; it's all yours!
+This project was build by using [Next.js][nextjs] and [Prismic][prismic]. with the Starter Blog from Prismic Communitywith the Starter Blog from Prismic Community. This uses the Prismic slice machine to build components which is a very nice feature of Prismic.
 
-- **Demo**: [[Open live demo](https://prismic-blog-asaasgeirs.vercel.app/)][live-demo]
+- **Live Link**: [[Live Link](https://prismic-blog-asaasgeirs.vercel.app/)][live-demo]
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 &nbsp;
